@@ -1,0 +1,5 @@
+com\peak\swagger\Swagger2.class
+com\hassdata\peak\controller\TestController.class
+com\hassdata\peak\model\Test.class
+com\peak\Application.class
+com\hassdata\peak\mapper\TestMapper.class
